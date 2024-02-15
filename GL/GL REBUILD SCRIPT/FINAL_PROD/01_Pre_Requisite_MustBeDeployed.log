@@ -1,0 +1,80 @@
+
+SQL*Plus: Release 11.2.0.4.0 Production on Thu Feb 23 23:13:00 2023
+
+Copyright (c) 1982, 2013, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, Real Application Clusters, Automatic Storage Management, OLAP,
+Data Mining and Real Application Testing options
+
+
+Table created.
+
+Elapsed: 00:00:00.21
+create table TMP_TRACKGLRESBUILT
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.00
+Thu Feb 23 23:13:01 WIB 2023
+
+
+Table created.
+
+Elapsed: 00:00:00.02
+create table TMP_TRACKGLRESBUILT_HIST
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.01
+Thu Feb 23 23:13:01 WIB 2023
+
+
+Table created.
+
+Elapsed: 00:00:57.97
+Create table GLTB_GL_BAL_Bkp as Select * from GLTB_GL_BAL
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.01
+Thu Feb 23 23:13:59 WIB 2023
+
+
+Table created.
+
+Elapsed: 02:37:15.93
+Create table actb_history_000IDR /*+ PARALLEL 16 */ as Select * from actb_history where ac_branch='000' and ac_ccy='IDR'
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.00
+Fri Feb 24 01:51:15 WIB 2023
+
+
+Index created.
+
+Elapsed: 00:17:39.28
+
+Index altered.
+
+Elapsed: 00:00:00.08
+
+Index altered.
+
+Elapsed: 00:00:00.02
+Fri Feb 24 02:08:54 WIB 2023
+
+Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, Real Application Clusters, Automatic Storage Management, OLAP,
+Data Mining and Real Application Testing options

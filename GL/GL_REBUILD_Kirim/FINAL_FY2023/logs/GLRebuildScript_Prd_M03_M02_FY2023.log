@@ -1,0 +1,10 @@
+
+SQL*Plus: Release 11.2.0.4.0 Production on Sat Mar 4 03:20:08 2023
+
+Copyright (c) 1982, 2013, Oracle.  All rights reserved.
+
+ERROR:
+ORA-01017: invalid username/password; logon denied
+
+
+Enter user-name: 

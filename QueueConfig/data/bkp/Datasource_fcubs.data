@@ -1,0 +1,12 @@
+N|jdbc-fcjdevDS|jdbc/fcjdevDS|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+N|jdbc-fcjdevDS_ASYNC|jdbc/fcjdevDS_ASYNC|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+N|jdbc-fcjdevDSBranch|jdbc/fcjdevDSBranch|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+N|jdbc-fcjdevDSSMS|jdbc/fcjdevDSSMS|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+XA|jdbc-fcjdevDS_XA|jdbc/fcjdevDS_XA|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+XAEL|jdbc-fcjdevDS_EL|jdbc/fcjdevDS_EL|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+XAPM|jdbc-fcjpmDS|jdbc/fcjpmDS|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+XAPM|jdbc-fcjpmDS_GTXN|jdbc/fcjpmDS_GTXN|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+XAPM|jdbc-fcjdevDS_GTXN|jdbc/fcjdevDS_GTXN|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+N|jdbc-OBIC|jdbc/OBIC|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+N|jdbc-PLATO|jdbc/PLATO|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER
+N|jdbc-PLATOBATCH|jdbc/PLATOBATCH|jdbc:oracle:thin:@//ofss-mum-491.snbomprshared1.gbucdsint02bom.oraclevcn.com:1521/FCUBSCUST|FCUBSUSER|FCUBSUSER

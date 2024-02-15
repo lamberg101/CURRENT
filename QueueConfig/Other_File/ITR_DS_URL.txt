@@ -1,0 +1,39 @@
+serverConfig                                   /JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-PLATO/JDBCResource/jdbc-PLATO/JDBCDriverParams/jdbc-PLATO
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-PLATOBATCH/JDBCResource/jdbc-PLATOBATCH/JDBCDriverParams/jdbc-PLATOBATCH
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjdevDS/JDBCResource/jdbc-fcjdevDS/JDBCDriverParams/jdbc-fcjdevDS
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjdevDSBranch/JDBCResource/jdbc-fcjdevDSBranch/JDBCDriverParams/jdbc-fcjdevDSBranch
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjdevDSBranchENTITY_ID1/JDBCResource/jdbc-fcjdevDSBranchENTITY_ID1/JDBCDriverParams/jdbc-fcjdevDSBranchENTITY_ID1
+DriverName                                   oracle.jdbc.xa.client.OracleXADataSource
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjdevDSSMS/JDBCResource/jdbc-fcjdevDSSMS/JDBCDriverParams/jdbc-fcjdevDSSMS
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjdevDS_ASYNC/JDBCResource/jdbc-fcjdevDS_ASYNC/JDBCDriverParams/jdbc-fcjdevDS_ASYNC
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjdevDS_EL/JDBCResource/jdbc-fcjdevDS_EL/JDBCDriverParams/jdbc-fcjdevDS_EL
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjdevDS_GTXN/JDBCResource/jdbc-fcjdevDS_GTXN/JDBCDriverParams/jdbc-fcjdevDS_GTXN
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjdevDS_XA/JDBCResource/jdbc-fcjdevDS_XA/JDBCDriverParams/jdbc-fcjdevDS_XA
+DriverName                                   oracle.jdbc.xa.client.OracleXADataSource
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjpmDS/JDBCResource/jdbc-fcjpmDS/JDBCDriverParams/jdbc-fcjpmDS
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF
+serverConfig                                   /JDBCSystemResources/jdbc-fcjpmDS_GTXN/JDBCResource/jdbc-fcjpmDS_GTXN/JDBCDriverParams/jdbc-fcjpmDS_GTXN
+DriverName                                   oracle.jdbc.OracleDriver
+Url                                          jdbc                                   oracle                                   thin                                   @//mum00cwe.in.oracle.com                                   1523/SMTBPDBTF

@@ -1,0 +1,1 @@
+SELECT * FROM TMP_TRACKGLRESBUILT ORDER BY SR_NO DESC; -- tracking table for the script completion

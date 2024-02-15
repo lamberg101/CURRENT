@@ -1,0 +1,32 @@
+
+SQL*Plus: Release 11.2.0.4.0 Production on Wed Apr 19 01:46:16 2023
+
+Copyright (c) 1982, 2013, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, Real Application Clusters, Automatic Storage Management, OLAP,
+Data Mining and Real Application Testing options
+
+
+Table created.
+
+Elapsed: 00:00:00.10
+Wed Apr 19 01:46:17 WIB 2023
+
+
+Table created.
+
+Elapsed: 00:00:00.02
+Wed Apr 19 01:46:17 WIB 2023
+
+
+Table created.
+
+Elapsed: 00:00:58.91
+Wed Apr 19 01:47:16 WIB 2023
+
+Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, Real Application Clusters, Automatic Storage Management, OLAP,
+Data Mining and Real Application Testing options

@@ -1,0 +1,89 @@
+
+SQL*Plus: Release 11.2.0.4.0 Production on Tue Feb 28 00:48:13 2023
+
+Copyright (c) 1982, 2013, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, Real Application Clusters, Automatic Storage Management, OLAP,
+Data Mining and Real Application Testing options
+
+create table TMP_TRACKGLRESBUILT
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.01
+create table TMP_TRACKGLRESBUILT
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.01
+Tue Feb 28 00:48:13 WIB 2023
+
+create table TMP_TRACKGLRESBUILT_HIST
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.01
+create table TMP_TRACKGLRESBUILT_HIST
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.00
+Tue Feb 28 00:48:13 WIB 2023
+
+Create table GLTB_GL_BAL_Bkp as Select * from GLTB_GL_BAL
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.01
+Create table GLTB_GL_BAL_Bkp as Select * from GLTB_GL_BAL
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.00
+Tue Feb 28 00:48:13 WIB 2023
+
+
+Table created.
+
+Elapsed: 10:49:49.23
+Create table actb_history_000IDR /*+ PARALLEL 16 */ as Select * from actb_history where ac_branch='000' and ac_ccy='IDR'
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.01
+Tue Feb 28 11:38:02 WIB 2023
+
+
+Index created.
+
+Elapsed: 00:08:05.93
+
+Index altered.
+
+Elapsed: 00:00:00.03
+
+Index altered.
+
+Elapsed: 00:00:00.01
+Tue Feb 28 11:46:08 WIB 2023
+
+Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, Real Application Clusters, Automatic Storage Management, OLAP,
+Data Mining and Real Application Testing options

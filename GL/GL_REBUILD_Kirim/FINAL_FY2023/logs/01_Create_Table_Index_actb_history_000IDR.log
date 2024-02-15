@@ -1,0 +1,43 @@
+
+SQL*Plus: Release 11.2.0.4.0 Production on Wed Mar 1 23:00:51 2023
+
+Copyright (c) 1982, 2013, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, Real Application Clusters, Automatic Storage Management, OLAP,
+Data Mining and Real Application Testing options
+
+Wed Mar  1 23:00:51 WIB 2023
+
+
+Table created.
+
+Elapsed: 02:35:18.36
+Create table actb_history_000IDR /*+ PARALLEL 16 */ as Select * from actb_history where ac_branch='000' and ac_ccy='IDR'
+             *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object
+
+
+Elapsed: 00:00:00.01
+Thu Mar  2 01:36:09 WIB 2023
+
+
+Index created.
+
+Elapsed: 00:10:18.85
+
+Index altered.
+
+Elapsed: 00:00:00.04
+
+Index altered.
+
+Elapsed: 00:00:00.01
+Thu Mar  2 01:46:28 WIB 2023
+
+Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, Real Application Clusters, Automatic Storage Management, OLAP,
+Data Mining and Real Application Testing options

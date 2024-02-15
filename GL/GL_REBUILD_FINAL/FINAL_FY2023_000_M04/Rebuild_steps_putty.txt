@@ -1,0 +1,23 @@
+Steps:
+
+1. Drop old temp actb_history_000IDR table 
+SQL> DROP TABLE FCC114.actb_history_000IDR PURGE;
+
+2. Create temp table for GLTB_BAL and tracking (00_Pre_Requisite_MustBeDeployed.sql)
+
+3. Create temp table for ACTB_HISTORY (01_Create_Table_Index_actb_history_000IDR.sql)
+
+4. Create temp index for ACTB_HISTORY (02_Create_Temp_Index_ACTB_HISTORY.sql)
+
+5. Recompile package body (03_GLPKS_GLREBUILD_CUSTOM.sql)
+
+6. Run rebuild GL script (GLRebuildScript_Prd_M04_FY2023)
+
+7. Monitoring
+select * from fcc114.TMP_TRACKGLRESBUILT
+
+8. Check imbalance.
+
+9. Drop temp index and table.
+
+10. Recreate temp table (only 10 rows)

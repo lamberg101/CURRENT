@@ -1,0 +1,5 @@
+N|fcjdevDS|jdbc/fcjdevDS|jdbc:oracle:thin:@10.81.100.12:1521/bmiuat|fcc114|fcc114uat
+N|fcjdevDS_ASYNC|jdbc/fcjdevDS_ASYNC|jdbc:oracle:thin:@10.81.100.12:1521/bmiuat|fcc114|fcc114uat
+XA|fcjdevDSBranch|jdbc/fcjdevDSBranch|jdbc:oracle:thin:@10.81.100.12:1521/bmiuat|fcc114|fcc114uat
+XA|fcjSchedulerDS|jdbc/fcjSchedulerDS|jdbc:oracle:thin:@10.81.100.12:1521/bmiuat|fcc114|fcc114uat
+

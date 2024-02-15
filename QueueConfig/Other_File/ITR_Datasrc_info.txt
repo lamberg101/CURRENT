@@ -1,0 +1,96 @@
+cmwls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources> cd('/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC> ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC> cd('/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-OBIC/JDBCResource/jdbc-OBIC/JDBCDriverParams/jdbc-OBIC> cd('/JDBCSystemResources/jdbc-PLATO/JDBCResource/jdbc-PLATO/JDBCDriverParams/jdbc-PLATO')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-PLATO/JDBCResource/jdbc-PLATO/JDBCDriverParams/jdbc-PLATO>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-PLATO/JDBCResource/jdbc-PLATO/JDBCDriverParams/jdbc-PLATO'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-PLATO/JDBCResource/jdbc-PLATO/JDBCDriverParams/jdbc-PLATO>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-PLATO/JDBCResource/jdbc-PLATO/JDBCDriverParams/jdbc-PLATO>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-PLATO/JDBCResource/jdbc-PLATO/JDBCDriverParams/jdbc-PLATO> cd('/JDBCSystemResources/jdbc-PLATOBATCH/JDBCResource/jdbc-PLATOBATCH/JDBCDriverParams/jdbc-PLATOBATCH')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-PLATOBATCH/JDBCResource/jdbc-PLATOBATCH/JDBCDriverParams/jdbc-PLATOBATCH>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-PLATOBATCH/JDBCResource/jdbc-PLATOBATCH/JDBCDriverParams/jdbc-PLATOBATCH'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-PLATOBATCH/JDBCResource/jdbc-PLATOBATCH/JDBCDriverParams/jdbc-PLATOBATCH>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-PLATOBATCH/JDBCResource/jdbc-PLATOBATCH/JDBCDriverParams/jdbc-PLATOBATCH>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-PLATOBATCH/JDBCResource/jdbc-PLATOBATCH/JDBCDriverParams/jdbc-PLATOBATCH> cd('/JDBCSystemResources/jdbc-fcjdevDS/JDBCResource/jdbc-fcjdevDS/JDBCDriverParams/jdbc-fcjdevDS')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS/JDBCResource/jdbc-fcjdevDS/JDBCDriverParams/jdbc-fcjdevDS>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjdevDS/JDBCResource/jdbc-fcjdevDS/JDBCDriverParams/jdbc-fcjdevDS'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS/JDBCResource/jdbc-fcjdevDS/JDBCDriverParams/jdbc-fcjdevDS>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS/JDBCResource/jdbc-fcjdevDS/JDBCDriverParams/jdbc-fcjdevDS>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS/JDBCResource/jdbc-fcjdevDS/JDBCDriverParams/jdbc-fcjdevDS> cd('/JDBCSystemResources/jdbc-fcjdevDSBranch/JDBCResource/jdbc-fcjdevDSBranch/JDBCDriverParams/jdbc-fcjdevDSBranch')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSBranch/JDBCResource/jdbc-fcjdevDSBranch/JDBCDriverParams/jdbc-fcjdevDSBranch>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjdevDSBranch/JDBCResource/jdbc-fcjdevDSBranch/JDBCDriverParams/jdbc-fcjdevDSBranch'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSBranch/JDBCResource/jdbc-fcjdevDSBranch/JDBCDriverParams/jdbc-fcjdevDSBranch>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSBranch/JDBCResource/jdbc-fcjdevDSBranch/JDBCDriverParams/jdbc-fcjdevDSBranch>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSBranch/JDBCResource/jdbc-fcjdevDSBranch/JDBCDriverParams/jdbc-fcjdevDSBranch> cd('/JDBCSystemResources/jdbc-fcjdevDSBranchENTITY_ID1/JDBCResource/jdbc-fcjdevDSBranchENTITY_ID1/JDBCDriverParams/jdbc-fcjdevDSBranchENTITY_ID1')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSBranchENTITY_ID1/JDBCResource/jdbc-fcjdevDSBranchENTITY_ID1/JDBCDriverParams/jdbc-fcjdevDSBranchENTITY_ID1>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjdevDSBranchENTITY_ID1/JDBCResource/jdbc-fcjdevDSBranchENTITY_ID1/JDBCDriverParams/jdbc-fcjdevDSBranchENTITY_ID1'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSBranchENTITY_ID1/JDBCResource/jdbc-fcjdevDSBranchENTITY_ID1/JDBCDriverParams/jdbc-fcjdevDSBranchENTITY_ID1>  ls()
+-r--   DriverName                                   oracle.jdbc.xa.client.OracleXADataSource
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSBranchENTITY_ID1/JDBCResource/jdbc-fcjdevDSBranchENTITY_ID1/JDBCDriverParams/jdbc-fcjdevDSBranchENTITY_ID1>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSBranchENTITY_ID1/JDBCResource/jdbc-fcjdevDSBranchENTITY_ID1/JDBCDriverParams/jdbc-fcjdevDSBranchENTITY_ID1> cd('/JDBCSystemResources/jdbc-fcjdevDSSMS/JDBCResource/jdbc-fcjdevDSSMS/JDBCDriverParams/jdbc-fcjdevDSSMS')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSSMS/JDBCResource/jdbc-fcjdevDSSMS/JDBCDriverParams/jdbc-fcjdevDSSMS>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjdevDSSMS/JDBCResource/jdbc-fcjdevDSSMS/JDBCDriverParams/jdbc-fcjdevDSSMS'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSSMS/JDBCResource/jdbc-fcjdevDSSMS/JDBCDriverParams/jdbc-fcjdevDSSMS>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSSMS/JDBCResource/jdbc-fcjdevDSSMS/JDBCDriverParams/jdbc-fcjdevDSSMS>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDSSMS/JDBCResource/jdbc-fcjdevDSSMS/JDBCDriverParams/jdbc-fcjdevDSSMS> cd('/JDBCSystemResources/jdbc-fcjdevDS_ASYNC/JDBCResource/jdbc-fcjdevDS_ASYNC/JDBCDriverParams/jdbc-fcjdevDS_ASYNC')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_ASYNC/JDBCResource/jdbc-fcjdevDS_ASYNC/JDBCDriverParams/jdbc-fcjdevDS_ASYNC>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjdevDS_ASYNC/JDBCResource/jdbc-fcjdevDS_ASYNC/JDBCDriverParams/jdbc-fcjdevDS_ASYNC'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_ASYNC/JDBCResource/jdbc-fcjdevDS_ASYNC/JDBCDriverParams/jdbc-fcjdevDS_ASYNC>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_ASYNC/JDBCResource/jdbc-fcjdevDS_ASYNC/JDBCDriverParams/jdbc-fcjdevDS_ASYNC>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_ASYNC/JDBCResource/jdbc-fcjdevDS_ASYNC/JDBCDriverParams/jdbc-fcjdevDS_ASYNC> cd('/JDBCSystemResources/jdbc-fcjdevDS_EL/JDBCResource/jdbc-fcjdevDS_EL/JDBCDriverParams/jdbc-fcjdevDS_EL')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_EL/JDBCResource/jdbc-fcjdevDS_EL/JDBCDriverParams/jdbc-fcjdevDS_EL>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjdevDS_EL/JDBCResource/jdbc-fcjdevDS_EL/JDBCDriverParams/jdbc-fcjdevDS_EL'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_EL/JDBCResource/jdbc-fcjdevDS_EL/JDBCDriverParams/jdbc-fcjdevDS_EL>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_EL/JDBCResource/jdbc-fcjdevDS_EL/JDBCDriverParams/jdbc-fcjdevDS_EL>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_EL/JDBCResource/jdbc-fcjdevDS_EL/JDBCDriverParams/jdbc-fcjdevDS_EL> cd('/JDBCSystemResources/jdbc-fcjdevDS_GTXN/JDBCResource/jdbc-fcjdevDS_GTXN/JDBCDriverParams/jdbc-fcjdevDS_GTXN')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_GTXN/JDBCResource/jdbc-fcjdevDS_GTXN/JDBCDriverParams/jdbc-fcjdevDS_GTXN>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjdevDS_GTXN/JDBCResource/jdbc-fcjdevDS_GTXN/JDBCDriverParams/jdbc-fcjdevDS_GTXN'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_GTXN/JDBCResource/jdbc-fcjdevDS_GTXN/JDBCDriverParams/jdbc-fcjdevDS_GTXN>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_GTXN/JDBCResource/jdbc-fcjdevDS_GTXN/JDBCDriverParams/jdbc-fcjdevDS_GTXN>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_GTXN/JDBCResource/jdbc-fcjdevDS_GTXN/JDBCDriverParams/jdbc-fcjdevDS_GTXN> cd('/JDBCSystemResources/jdbc-fcjdevDS_XA/JDBCResource/jdbc-fcjdevDS_XA/JDBCDriverParams/jdbc-fcjdevDS_XA')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_XA/JDBCResource/jdbc-fcjdevDS_XA/JDBCDriverParams/jdbc-fcjdevDS_XA>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjdevDS_XA/JDBCResource/jdbc-fcjdevDS_XA/JDBCDriverParams/jdbc-fcjdevDS_XA'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_XA/JDBCResource/jdbc-fcjdevDS_XA/JDBCDriverParams/jdbc-fcjdevDS_XA>  ls()
+-r--   DriverName                                   oracle.jdbc.xa.client.OracleXADataSource
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_XA/JDBCResource/jdbc-fcjdevDS_XA/JDBCDriverParams/jdbc-fcjdevDS_XA>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjdevDS_XA/JDBCResource/jdbc-fcjdevDS_XA/JDBCDriverParams/jdbc-fcjdevDS_XA> cd('/JDBCSystemResources/jdbc-fcjpmDS/JDBCResource/jdbc-fcjpmDS/JDBCDriverParams/jdbc-fcjpmDS')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjpmDS/JDBCResource/jdbc-fcjpmDS/JDBCDriverParams/jdbc-fcjpmDS>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjpmDS/JDBCResource/jdbc-fcjpmDS/JDBCDriverParams/jdbc-fcjpmDS'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjpmDS/JDBCResource/jdbc-fcjpmDS/JDBCDriverParams/jdbc-fcjpmDS>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjpmDS/JDBCResource/jdbc-fcjpmDS/JDBCDriverParams/jdbc-fcjpmDS>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjpmDS/JDBCResource/jdbc-fcjpmDS/JDBCDriverParams/jdbc-fcjpmDS> cd('/JDBCSystemResources/jdbc-fcjpmDS_GTXN/JDBCResource/jdbc-fcjpmDS_GTXN/JDBCDriverParams/jdbc-fcjpmDS_GTXN')
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjpmDS_GTXN/JDBCResource/jdbc-fcjpmDS_GTXN/JDBCDriverParams/jdbc-fcjpmDS_GTXN>  pwd()
+'serverConfig:/JDBCSystemResources/jdbc-fcjpmDS_GTXN/JDBCResource/jdbc-fcjpmDS_GTXN/JDBCDriverParams/jdbc-fcjpmDS_GTXN'
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjpmDS_GTXN/JDBCResource/jdbc-fcjpmDS_GTXN/JDBCDriverParams/jdbc-fcjpmDS_GTXN>  ls()
+-r--   DriverName                                   oracle.jdbc.OracleDriver
+-r--   Url                                          jdbc:oracle:thin:@//mum00cwe.in.oracle.com:1523/SMTBPDBTF
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjpmDS_GTXN/JDBCResource/jdbc-fcjpmDS_GTXN/JDBCDriverParams/jdbc-fcjpmDS_GTXN>
+wls:/FCUBS_DOMAIN/serverConfig/JDBCSystemResources/jdbc-fcjpmDS_GTXN/JDBCResource/jdbc-fcjpmDS_GTXN/JDBCDriverParams/jdbc-fcjpmDS_GTXN> 
